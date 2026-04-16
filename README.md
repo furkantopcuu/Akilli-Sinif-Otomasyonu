@@ -13,11 +13,6 @@ Bu proje, sınıf ortamlarında enerji verimliliğini artırmak için geliştiri
 * **İş Mantığı:** Sensör verisi üretme ve kontrol algoritmaları.
 * **Sunum:** Streamlit ile interaktif web arayüzü.
 
-## 👥 Proje Ekibi
-* [Kendi Adın Soyadın]
-* [Arkadaşının İsmi]
-* [Arkadaşının İsmi]
-
 ## 🛠️ Kurulum
 1. `pip install -r requirements.txt` komutuyla kütüphaneleri kurun.
 2. `python main_motor.py` ile motoru başlatın.
